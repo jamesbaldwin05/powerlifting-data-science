@@ -2,3 +2,5 @@ This project uses data from the [OpenPowerlifting dataset](https://openpowerlift
 which is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
 
 The dataset is not redistributed in this repository — only referenced for educational use.
+
+This is just a variety of data analytics/data science themed projects I've done!
